@@ -79,7 +79,7 @@ const EditTopicForm = ({ topic }) => {
         type="submit"
         className="bg-green-600 font-bold text-white py-3 px-6 w-fit"
       >
-        Update Topic
+        Update Task
       </button>
     </form>
   );

@@ -73,7 +73,7 @@ const AddTopic = () => {
         className="bg-green-600 font-bold text-white py-3 px-6 w-fit"
         onClick={handleAdd}
       >
-        Add Topic
+        Add Task
       </button>
     </form>
   );
